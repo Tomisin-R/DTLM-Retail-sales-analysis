@@ -15,27 +15,27 @@ The analysis answers key business questions such as:
  
  	•       Microsoft Excel – Data cleaning and exploratory analysis using pivot tables
   
-	•	      Power BI – Interactive dashboards and visual insights
+	•	Power BI – Interactive dashboards and visual insights
  
 	•     	PowerPoint – Final presentation delivery
  ## Key Insights
  
- 	•       Identified top revenue-generating products and sales team members
+ 	•        Identified top revenue-generating products and sales team members
   
-	•	      Highlighted the most profitable product categories
+	•        Highlighted the most profitable product categories
  
-	•	      Discovered high-performing states by revenue, factoring in population, income, and store count
+	•	 Discovered high-performing states by revenue, factoring in population, income, and store count
  
-	•	      Provided actionable visuals to guide strategic sales planning
+	•	 Provided actionable visuals to guide strategic sales planning
  ## Key visuals 
  
  	•       Revenue & Profit Overview – Visualized using bar charts and KPI cards
   
-	•	      Top Products & Sales Team by Revenue – Showcased with tables and stacked bar visuals
+	•	Top Products & Sales Team by Revenue – Showcased with tables and stacked bar visuals
  
 	•      	Product Category Contribution – Pie charts for quick comparisons
  
-	•	      Top States Analysis – Combined visuals and tables showing population, median income, and store count
+	•	Top States Analysis – Combined visuals and tables showing population, median income, and store count
  ## Files in Repository
  
  	•       DTLM_Retail_Analysis_Dataset.xlsx – Raw dataset used for analysis
